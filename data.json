@@ -79,12 +79,12 @@
     },
     "08.01.C": {
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "Y",
-        "d": "Y"
+        "a": null,
+        "b": null,
+        "c": null,
+        "d": null
       },
-      "status": "Y"
+      "status": null
     }
   },
   "TVAVA": {
