@@ -1,4 +1,13 @@
 {
-  "MMD": {},
+  "MMD": {
+    "02.01.C": {
+      "subRequirements": {
+        "a": "Y",
+        "b": "Y",
+        "c": "Y"
+      },
+      "status": "Y"
+    }
+  },
   "TVAVA": {}
 }
