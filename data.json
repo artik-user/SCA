@@ -55,6 +55,11 @@
     },
     "15.05.B": {
       "status": "NA"
+    },
+    "01.01.C": {
+      "subRequirements": {
+        "a": null
+      }
     }
   },
   "TVAVA": {}
