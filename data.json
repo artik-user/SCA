@@ -69,6 +69,13 @@
     },
     "09.01.C": {
       "status": null
+    },
+    "14.02.C": {
+      "subRequirements": {
+        "a": "Y",
+        "b": "Y",
+        "c": "Y"
+      }
     }
   },
   "TVAVA": {
