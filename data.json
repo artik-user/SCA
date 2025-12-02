@@ -7,6 +7,22 @@
         "c": "Y"
       },
       "status": "Y"
+    },
+    "02.02.C": {
+      "subRequirements": {
+        "a": "Y",
+        "b": "Y",
+        "c": "Y",
+        "d": "Y",
+        "e": "Y",
+        "f": "Y",
+        "g": "Y",
+        "h": "Y"
+      },
+      "status": "Y"
+    },
+    "02.03.C": {
+      "status": "Y"
     }
   },
   "TVAVA": {}
