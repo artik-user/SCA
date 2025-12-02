@@ -31,6 +31,18 @@
         "c": "Y"
       },
       "status": "Y"
+    },
+    "02.05.B": {
+      "subRequirements": {
+        "a": "Y",
+        "b": "Y",
+        "c": "Y",
+        "d": "Y",
+        "e": "Y",
+        "f": "Y",
+        "g": "Y"
+      },
+      "status": "A"
     }
   },
   "TVAVA": {}
