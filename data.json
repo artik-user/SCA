@@ -22,7 +22,8 @@
       "status": null
     },
     "02.03.C": {
-      "status": null
+      "status": null,
+      "comment": "qwer\nqwer\nqwer\nqwer\nqwer\n"
     },
     "02.04.B": {
       "subRequirements": {
