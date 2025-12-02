@@ -19,30 +19,30 @@
         "g": null,
         "h": null
       },
-      "status": "Y"
+      "status": null
     },
     "02.03.C": {
-      "status": "Y"
+      "status": null
     },
     "02.04.B": {
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "Y"
+        "a": null,
+        "b": null,
+        "c": null
       },
-      "status": "Y"
+      "status": null
     },
     "02.05.B": {
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "Y",
-        "d": "Y",
-        "e": "Y",
-        "f": "Y",
-        "g": "Y"
+        "a": null,
+        "b": null,
+        "c": null,
+        "d": null,
+        "e": null,
+        "f": null,
+        "g": null
       },
-      "status": "A"
+      "status": null
     },
     "02.06.B": {
       "status": "Y"
