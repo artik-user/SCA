@@ -2,22 +2,22 @@
   "MMD": {
     "02.01.C": {
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "A"
+        "a": null,
+        "b": null,
+        "c": null
       },
-      "status": "NA"
+      "status": null
     },
     "02.02.C": {
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "Y",
-        "d": "Y",
-        "e": "Y",
-        "f": "Y",
-        "g": "Y",
-        "h": "Y"
+        "a": null,
+        "b": null,
+        "c": null,
+        "d": null,
+        "e": null,
+        "f": null,
+        "g": null,
+        "h": null
       },
       "status": "Y"
     },
