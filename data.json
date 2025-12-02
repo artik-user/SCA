@@ -65,7 +65,7 @@
         "d": null,
         "e": null
       },
-      "status": "Y",
+      "status": null,
       "comment": ""
     },
     "09.01.C": {
@@ -88,25 +88,25 @@
       "status": null
     },
     "01.02.C": {
-      "status": "A"
+      "status": null
     },
     "01.03.C": {
-      "status": "NA"
+      "status": null
     },
     "01.04.B": {
-      "status": "Y"
+      "status": null
     },
     "01.05.B": {
-      "status": "Y"
+      "status": null
     },
     "01.06.B": {
-      "status": "Y"
+      "status": null
     },
     "01.07.B": {
-      "status": "Y"
+      "status": null
     },
     "01.08.B": {
-      "status": "Y"
+      "status": null
     }
   },
   "TVAVA": {
