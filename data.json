@@ -19,10 +19,10 @@
         "g": null,
         "h": null
       },
-      "status": "Y"
+      "status": null
     },
     "02.03.C": {
-      "status": "A",
+      "status": null,
       "comment": ""
     },
     "02.04.B": {
@@ -31,7 +31,7 @@
         "b": null,
         "c": null
       },
-      "status": "Y"
+      "status": null
     },
     "02.05.B": {
       "subRequirements": {
@@ -43,7 +43,7 @@
         "f": null,
         "g": null
       },
-      "status": "Y"
+      "status": null
     },
     "02.06.B": {
       "status": null
