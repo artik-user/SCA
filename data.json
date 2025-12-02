@@ -68,5 +68,15 @@
       "comment": "fsdfsdf"
     }
   },
-  "TVAVA": {}
+  "TVAVA": {
+    "01.01.C": {
+      "subRequirements": {
+        "a": "Y",
+        "c": "Y",
+        "b": "Y",
+        "d": "Y",
+        "e": "Y"
+      }
+    }
+  }
 }
