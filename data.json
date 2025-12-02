@@ -58,8 +58,14 @@
     },
     "01.01.C": {
       "subRequirements": {
-        "a": null
-      }
+        "a": "Y",
+        "b": "Y",
+        "c": "Y",
+        "d": "Y",
+        "e": "Y"
+      },
+      "status": "Y",
+      "comment": "fsdfsdf"
     }
   },
   "TVAVA": {}
