@@ -72,9 +72,9 @@
     },
     "14.02.C": {
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "Y"
+        "a": null,
+        "b": null,
+        "c": null
       }
     }
   },
