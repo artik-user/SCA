@@ -4,9 +4,9 @@
       "subRequirements": {
         "a": "Y",
         "b": "Y",
-        "c": "Y"
+        "c": "A"
       },
-      "status": "Y"
+      "status": "NA"
     },
     "02.02.C": {
       "subRequirements": {
