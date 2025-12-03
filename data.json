@@ -59,13 +59,13 @@
     },
     "01.01.C": {
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "Y",
-        "d": "A",
-        "e": "Y"
+        "a": null,
+        "b": null,
+        "c": null,
+        "d": null,
+        "e": null
       },
-      "status": "A",
+      "status": null,
       "comment": ""
     },
     "09.01.C": {
@@ -88,18 +88,18 @@
       "status": null
     },
     "01.02.C": {
-      "status": "Y",
+      "status": null,
       "subRequirements": {
-        "a": "Y",
-        "b": "Y",
-        "c": "Y",
-        "d": "Y",
-        "e": "Y",
-        "f": "Y"
+        "a": null,
+        "b": null,
+        "c": null,
+        "d": null,
+        "e": null,
+        "f": null
       }
     },
     "01.03.C": {
-      "status": "Y"
+      "status": null
     },
     "01.04.B": {
       "status": null
