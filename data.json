@@ -3,12 +3,12 @@
     "02.01.C": {
       "subRequirements": {
         "a": {
-          "status": "A"
+          "status": null
         },
         "b": null,
         "c": null
       },
-      "status": "A",
+      "status": null,
       "tasks": []
     },
     "02.02.C": {
