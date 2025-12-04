@@ -59,10 +59,10 @@
     },
     "01.01.C": {
       "subRequirements": {
-        "a": null,
-        "b": null,
-        "c": null,
-        "d": null,
+        "a": "Y",
+        "b": "Y",
+        "c": "Y",
+        "d": "Y",
         "e": null
       },
       "status": "Y",
