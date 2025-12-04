@@ -142,52 +142,5 @@
       }
     }
   },
-  "actionPlan": [
-    {
-      "id": "f39230fb-5c6c-4d19-9a5d-fa320df3c7fe",
-      "reqId": "01.01.C",
-      "subId": "a",
-      "scope": "MMD",
-      "description": "Podpunkt a): Przestrzegania stosowania wymaganych środków ochro...",
-      "status": "A",
-      "responsible": "",
-      "dueDate": "",
-      "isClosed": false,
-      "createdAt": 1764853531642
-    },
-    {
-      "id": "2848f066-4f83-488a-9c04-ad9e640b3a90",
-      "reqId": "01.01.C",
-      "subId": "b",
-      "scope": "MMD",
-      "description": "Podpunkt b): Odpowiedniego oznaczania wszelkich niebezpiecznych...",
-      "status": "A",
-      "responsible": "",
-      "dueDate": "",
-      "isClosed": false,
-      "createdAt": 1764853540954
-    },
-    {
-      "id": "413847ce-6aeb-4cee-98b4-2816d52c25c7",
-      "reqId": "01.01.C",
-      "scope": "MMD",
-      "description": "Brak poważnych/powtarzających się problemów BHP (ŚOI, Oznaczenia, MHE).",
-      "status": "A",
-      "responsible": "",
-      "dueDate": "",
-      "isClosed": false,
-      "createdAt": 1764853552129
-    },
-    {
-      "id": "636199a8-962b-47dc-bf09-ece477aa839d",
-      "reqId": "01.03.C",
-      "scope": "MMD",
-      "description": "LTIFR - Monitorowanie vs Cel (Lost Time Injury Frequency Rate).",
-      "status": "A",
-      "responsible": "",
-      "dueDate": "",
-      "isClosed": false,
-      "createdAt": 1764854051562
-    }
-  ]
+  "actionPlan": []
 }
