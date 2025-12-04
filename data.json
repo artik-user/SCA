@@ -8,7 +8,7 @@
         "b": null,
         "c": null
       },
-      "status": null,
+      "status": "A",
       "tasks": []
     },
     "02.02.C": {
@@ -22,7 +22,7 @@
         "g": null,
         "h": null
       },
-      "status": null,
+      "status": "Y",
       "tasks": []
     },
     "02.03.C": {
