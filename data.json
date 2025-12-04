@@ -111,7 +111,9 @@
       }
     },
     "01.03.C": {
-      "status": null
+      "status": "A",
+      "responsible": "Artem",
+      "dueDate": ""
     },
     "01.04.B": {
       "status": null
@@ -175,6 +177,17 @@
       "dueDate": "",
       "isClosed": false,
       "createdAt": 1764853552129
+    },
+    {
+      "id": "636199a8-962b-47dc-bf09-ece477aa839d",
+      "reqId": "01.03.C",
+      "scope": "MMD",
+      "description": "LTIFR - Monitorowanie vs Cel (Lost Time Injury Frequency Rate).",
+      "status": "A",
+      "responsible": "",
+      "dueDate": "",
+      "isClosed": false,
+      "createdAt": 1764854051562
     }
   ]
 }
