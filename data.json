@@ -65,15 +65,17 @@
           "dueDate": "0002-09-03"
         },
         "b": {
-          "status": "A",
+          "status": "Y",
           "responsible": "e",
           "dueDate": "2025-12-04"
         },
-        "c": "Y",
+        "c": {
+          "status": "A"
+        },
         "d": "Y",
         "e": null
       },
-      "status": null,
+      "status": "A",
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04"
