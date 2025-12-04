@@ -82,8 +82,8 @@
         "d": "Y",
         "e": null
       },
-      "status": "Y",
-      "comment": "",
+      "status": "A",
+      "comment": "bla \nbla \nbla \nbla",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04",
       "tasks": [
