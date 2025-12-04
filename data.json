@@ -66,7 +66,9 @@
         "e": null
       },
       "status": "A",
-      "comment": ""
+      "comment": "",
+      "responsible": "Artem Kryvorot",
+      "dueDate": "2002-01-01"
     },
     "09.01.C": {
       "status": null
