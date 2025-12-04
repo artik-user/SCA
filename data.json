@@ -64,12 +64,16 @@
           "responsible": "Artenm",
           "dueDate": "0002-09-03"
         },
-        "b": "Y",
+        "b": {
+          "status": "A",
+          "responsible": "e",
+          "dueDate": "2025-12-04"
+        },
         "c": "Y",
         "d": "Y",
         "e": null
       },
-      "status": "Y",
+      "status": "A",
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04"
@@ -146,6 +150,29 @@
       "dueDate": "",
       "isClosed": false,
       "createdAt": 1764853531642
+    },
+    {
+      "id": "2848f066-4f83-488a-9c04-ad9e640b3a90",
+      "reqId": "01.01.C",
+      "subId": "b",
+      "scope": "MMD",
+      "description": "Podpunkt b): Odpowiedniego oznaczania wszelkich niebezpiecznych...",
+      "status": "A",
+      "responsible": "",
+      "dueDate": "",
+      "isClosed": false,
+      "createdAt": 1764853540954
+    },
+    {
+      "id": "413847ce-6aeb-4cee-98b4-2816d52c25c7",
+      "reqId": "01.01.C",
+      "scope": "MMD",
+      "description": "Brak poważnych/powtarzających się problemów BHP (ŚOI, Oznaczenia, MHE).",
+      "status": "A",
+      "responsible": "",
+      "dueDate": "",
+      "isClosed": false,
+      "createdAt": 1764853552129
     }
   ]
 }
