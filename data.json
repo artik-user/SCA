@@ -82,28 +82,11 @@
         "d": "Y",
         "e": null
       },
-      "status": "A",
-      "comment": "bla \nbla \nbla \nbla",
+      "status": "Y",
+      "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04",
-      "tasks": [
-        {
-          "id": "59ea3ec0-5580-460a-a08f-26f3da4d6b3d",
-          "isClosed": true,
-          "createdAt": 1764854776873,
-          "responsible": "Artem",
-          "dueDate": "2025-12-05",
-          "comment": "ewqeqwe wewqeqeqweqweqweqweqweqweqweqweqweqweqweqweqweqweqweqweeqweqweqewqeqeqweqweqweqweqeqeqweqweqe"
-        },
-        {
-          "id": "3c422dae-6c25-44d3-a765-8a4afc241013",
-          "isClosed": true,
-          "createdAt": 1764854785640,
-          "responsible": "weqweqweqwe",
-          "dueDate": "2025-12-11",
-          "comment": "weqweqweqwe"
-        }
-      ]
+      "tasks": []
     },
     "09.01.C": {
       "status": null,
