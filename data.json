@@ -91,7 +91,7 @@
       "tasks": [
         {
           "id": "59ea3ec0-5580-460a-a08f-26f3da4d6b3d",
-          "isClosed": false,
+          "isClosed": true,
           "createdAt": 1764854776873,
           "responsible": "Artem",
           "dueDate": "2025-12-05",
@@ -99,7 +99,7 @@
         },
         {
           "id": "3c422dae-6c25-44d3-a765-8a4afc241013",
-          "isClosed": false,
+          "isClosed": true,
           "createdAt": 1764854785640,
           "responsible": "weqweqweqwe",
           "dueDate": "2025-12-11",
