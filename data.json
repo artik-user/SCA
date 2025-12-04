@@ -59,7 +59,11 @@
     },
     "01.01.C": {
       "subRequirements": {
-        "a": "Y",
+        "a": {
+          "status": "A",
+          "responsible": "A",
+          "dueDate": ""
+        },
         "b": "Y",
         "c": "Y",
         "d": "Y",
@@ -130,5 +134,18 @@
       }
     }
   },
-  "actionPlan": []
+  "actionPlan": [
+    {
+      "id": "d9ac4547-d247-47e4-ad04-779aa3bd618f",
+      "reqId": "01.01.C",
+      "subId": "a",
+      "scope": "MMD",
+      "description": "Podpunkt a): Przestrzegania stosowania wymaganych środków ochro...",
+      "status": "A",
+      "responsible": "",
+      "dueDate": "",
+      "isClosed": false,
+      "createdAt": 1764853465365
+    }
+  ]
 }
