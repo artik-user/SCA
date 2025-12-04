@@ -84,20 +84,11 @@
         "d": "Y",
         "e": null
       },
-      "status": "A",
+      "status": "Y",
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04",
-      "tasks": [
-        {
-          "id": "d3443fb4-32c2-49fc-9ee1-4c605aaf0570",
-          "isClosed": false,
-          "createdAt": 1764871715303,
-          "responsible": "1",
-          "dueDate": "2025-12-04",
-          "comment": "1"
-        }
-      ]
+      "tasks": []
     },
     "09.01.C": {
       "status": null,
