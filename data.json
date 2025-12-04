@@ -2,11 +2,13 @@
   "MMD": {
     "02.01.C": {
       "subRequirements": {
-        "a": null,
+        "a": {
+          "status": "A"
+        },
         "b": null,
         "c": null
       },
-      "status": null,
+      "status": "A",
       "tasks": []
     },
     "02.02.C": {
