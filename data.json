@@ -75,7 +75,7 @@
         "d": "Y",
         "e": null
       },
-      "status": "A",
+      "status": "Y",
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04"
@@ -111,7 +111,7 @@
       }
     },
     "01.03.C": {
-      "status": "A",
+      "status": "Y",
       "responsible": "Artem",
       "dueDate": "2026-01-11"
     },
