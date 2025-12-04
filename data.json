@@ -61,8 +61,8 @@
       "subRequirements": {
         "a": {
           "status": "A",
-          "responsible": "A",
-          "dueDate": ""
+          "responsible": "Artenm",
+          "dueDate": "0002-09-03"
         },
         "b": "Y",
         "c": "Y",
