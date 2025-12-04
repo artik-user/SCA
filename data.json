@@ -9,7 +9,16 @@
         "c": null
       },
       "status": "A",
-      "tasks": []
+      "tasks": [
+        {
+          "id": "a8410978-1a46-4f8a-a32f-442b5933b4ff",
+          "isClosed": false,
+          "createdAt": 1764855239621,
+          "responsible": "Artem Kryvorot",
+          "dueDate": "2025-12-04",
+          "comment": "1) cos tam\n2) cos tu"
+        }
+      ]
     },
     "02.02.C": {
       "subRequirements": {
