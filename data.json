@@ -60,7 +60,7 @@
     "01.01.C": {
       "subRequirements": {
         "a": {
-          "status": "A",
+          "status": "Y",
           "responsible": "Artenm",
           "dueDate": "0002-09-03"
         },
@@ -134,5 +134,18 @@
       }
     }
   },
-  "actionPlan": []
+  "actionPlan": [
+    {
+      "id": "f39230fb-5c6c-4d19-9a5d-fa320df3c7fe",
+      "reqId": "01.01.C",
+      "subId": "a",
+      "scope": "MMD",
+      "description": "Podpunkt a): Przestrzegania stosowania wymaganych środków ochro...",
+      "status": "A",
+      "responsible": "",
+      "dueDate": "",
+      "isClosed": false,
+      "createdAt": 1764853531642
+    }
+  ]
 }
