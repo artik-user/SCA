@@ -123,7 +123,7 @@
       "tasks": []
     },
     "01.03.C": {
-      "status": "Y",
+      "status": null,
       "responsible": "Artem",
       "dueDate": "2026-01-11",
       "tasks": []
