@@ -71,17 +71,17 @@
     "01.01.C": {
       "subRequirements": {
         "a": {
-          "status": "Y",
-          "responsible": "Artenm",
-          "dueDate": "0002-09-03"
+          "status": null
         },
         "b": {
-          "status": "Y"
+          "status": null
         },
         "c": {
-          "status": "Y"
+          "status": null
         },
-        "d": "Y",
+        "d": {
+          "status": null
+        },
         "e": null
       },
       "status": "Y",
