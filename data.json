@@ -71,22 +71,22 @@
     "01.01.C": {
       "subRequirements": {
         "a": {
-          "status": "Y"
+          "status": null
         },
         "b": {
-          "status": "Y"
+          "status": null
         },
         "c": {
-          "status": "Y"
+          "status": null
         },
         "d": {
-          "status": "Y"
+          "status": null
         },
         "e": {
-          "status": "Y"
+          "status": null
         }
       },
-      "status": "Y",
+      "status": null,
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04",
@@ -160,14 +160,24 @@
   "TVAVA": {
     "01.01.C": {
       "subRequirements": {
-        "a": "Y",
-        "c": "Y",
-        "b": "Y",
-        "d": "Y",
-        "e": "Y"
+        "a": {
+          "status": null
+        },
+        "c": {
+          "status": null
+        },
+        "b": {
+          "status": null
+        },
+        "d": {
+          "status": null
+        },
+        "e": {
+          "status": null
+        }
       },
       "tasks": [],
-      "status": "Y"
+      "status": null
     }
   },
   "actionPlan": []
