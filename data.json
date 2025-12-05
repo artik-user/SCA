@@ -87,7 +87,7 @@
             "status": null
           }
         },
-        "status": "A",
+        "status": null,
         "comment": "",
         "responsible": "Artem Kryvorot",
         "dueDate": "2025-12-04",
