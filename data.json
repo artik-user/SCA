@@ -116,7 +116,7 @@
         "tasks": []
       },
       "01.02.C": {
-        "status": "A",
+        "status": "Y",
         "subRequirements": {
           "a": null,
           "b": null,
