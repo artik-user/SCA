@@ -162,7 +162,9 @@
         "status": null
       }
     },
-    "sectionOwners": {}
+    "sectionOwners": {
+      "1": "Arkadiusz Malecki"
+    }
   },
   "TVAVA": {
     "answers": {
