@@ -115,7 +115,7 @@
       "tasks": []
     },
     "01.02.C": {
-      "status": null,
+      "status": "A",
       "subRequirements": {
         "a": null,
         "b": null,
@@ -127,7 +127,7 @@
       "tasks": []
     },
     "01.03.C": {
-      "status": null,
+      "status": "Y",
       "responsible": "Artem",
       "dueDate": "2026-01-11",
       "tasks": []
