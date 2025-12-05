@@ -71,22 +71,22 @@
     "01.01.C": {
       "subRequirements": {
         "a": {
-          "status": "Y"
+          "status": null
         },
         "b": {
-          "status": "Y"
+          "status": null
         },
         "c": {
-          "status": "Y"
+          "status": null
         },
         "d": {
-          "status": "A"
+          "status": null
         },
         "e": {
-          "status": "Y"
+          "status": null
         }
       },
-      "status": "A",
+      "status": null,
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04",
