@@ -112,7 +112,16 @@
         "d": null
       },
       "status": "A",
-      "tasks": []
+      "tasks": [
+        {
+          "id": "4582ec3b-5626-4c9d-8e76-53590941e449",
+          "isClosed": false,
+          "createdAt": 1764921636149,
+          "responsible": "Darek",
+          "dueDate": "2025-12-05",
+          "comment": "lean corner"
+        }
+      ]
     },
     "01.02.C": {
       "status": null,
