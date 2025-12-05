@@ -91,7 +91,16 @@
         "comment": "",
         "responsible": "Artem Kryvorot",
         "dueDate": "2025-12-04",
-        "tasks": []
+        "tasks": [
+          {
+            "id": "7577d67b-5034-4aa9-98d4-e35d9d7a82f3",
+            "isClosed": false,
+            "createdAt": 1764945771119,
+            "responsible": "arek",
+            "dueDate": "2025-12-05",
+            "comment": "artq"
+          }
+        ]
       },
       "09.01.C": {
         "status": null,
