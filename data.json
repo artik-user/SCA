@@ -86,7 +86,7 @@
           "status": "Y"
         }
       },
-      "status": "Y",
+      "status": "A",
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04",
@@ -166,7 +166,8 @@
         "d": "Y",
         "e": "Y"
       },
-      "tasks": []
+      "tasks": [],
+      "status": "Y"
     }
   },
   "actionPlan": []
