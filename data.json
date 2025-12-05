@@ -71,16 +71,16 @@
     "01.01.C": {
       "subRequirements": {
         "a": {
-          "status": null
+          "status": "Y"
         },
         "b": {
-          "status": null
+          "status": "Y"
         },
         "c": {
-          "status": null
+          "status": "Y"
         },
         "d": {
-          "status": null
+          "status": "Y"
         },
         "e": null
       },
