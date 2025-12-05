@@ -80,11 +80,13 @@
           "status": "Y"
         },
         "d": {
-          "status": "Y"
+          "status": "A"
         },
-        "e": null
+        "e": {
+          "status": "Y"
+        }
       },
-      "status": "Y",
+      "status": "A",
       "comment": "",
       "responsible": "Artem Kryvorot",
       "dueDate": "2025-12-04",
